@@ -1,4 +1,4 @@
-# Welcome to Merlot
+# Merlot
 
 Merlot is a fancy page template for GitHub Pages. Want to use it for your own site? [Fork this repo](https://github.com/cameronmcefee/merlot/fork_select) and add your own content. Or better yet, use [GitHub Pages](http://pages.github.com) to do it for you.
 
